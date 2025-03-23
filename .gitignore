@@ -6,6 +6,10 @@ __pycache__/
 #Perso
 /input_videos
 yolov8x.pt
+training
+models
+detections
+detections2
 
 # C extensions
 *.so
