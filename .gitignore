@@ -5,11 +5,14 @@ __pycache__/
 
 #Perso
 /input_videos
+/output_videos
+/stubs
 yolov8x.pt
 training
 models
 detections
 detections2
+.DS_Store
 
 # C extensions
 *.so
